@@ -32,9 +32,11 @@
 - **Microservices Architecture**: Event-driven systems handling millions of transactions
 - **Machine Learning Pipelines**: NLP solutions for document analysis and translation
 
+<!--
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shikhar1sharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+-->
 
 ### 🏆 Professional Highlights:
 
