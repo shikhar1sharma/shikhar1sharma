@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Hi there 👋, I'm Shikhar Sharma
 
 ## Senior Software Engineer @ American Express
