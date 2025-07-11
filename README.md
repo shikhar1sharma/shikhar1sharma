@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Shikhar Sharma
 
-## Senior Software Engineer @ American Express
+## Senior Software Engineer @ American Express | Ex-Amazon
 
 - 🔭 I'm currently working on **enterprise ETL scheduling systems** and **RAG-based semantic search applications** using Spring Boot and vector databases
 - 🌱 I'm currently learning **advanced LLM optimization techniques** and **distributed vector database architectures**
